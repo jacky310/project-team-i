@@ -10,6 +10,7 @@ In task4, contributors are required to modify **`code.c`**, and include the code
 In task5, contributors are required to edit **`csci3250-2019.github.io`** in the CSCI3250 organization and add a link of our team. Then request for review from @chuckjee.
 
 # Code
+{% include_relative code.c %}  
 
 # Contributors
 1. {% include_relative _stu/1155000000.md %} 
