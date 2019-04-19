@@ -15,4 +15,5 @@ In task5, contributors are required to edit **`csci3250-2019.github.io`** in the
 Leung Ming Fung Andy, 
 Li Fung Siu, 
 Chaiyasait Prachaseree,
+Tsui Ho Ming,
 Cheung Bok Man Oscar
