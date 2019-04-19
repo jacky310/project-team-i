@@ -10,10 +10,20 @@ In task4, contributors are required to modify **`code.c`**, and include the code
 In task5, contributors are required to edit **`csci3250-2019.github.io`** in the CSCI3250 organization and add a link of our team. Then request for review from @chuckjee.
 
 # Code
+{% include_relative code.c %}
+
+[![Build Status](https://travis-ci.org/marco3321/github-slideshow.svg?branch=master)](https://travis-ci.org/marco3321/github-slideshow)
 
 # Contributors
-Leung Ming Fung Andy, 
-Li Fung Siu, 
-Chaiyasait Prachaseree,
-Tsui Ho Ming,
-Cheung Bok Man Oscar
+
+1. {% include_relative _stu/1155000000.md %} 
+2. {% include_relative _stu/1155102620.md %}
+3. {% include_relative _stu/1155109132.md %}
+4. {% include_relative _stu/1155106709.md %}
+5. {% include_relative _stu/1155110717.md %}
+6. {% include_relative _stu/1155110323.md %}
+7. {% include_relative _stu/1155109498.md %}
+
+# Last Update Time
+{{site.time}}
+
