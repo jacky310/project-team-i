@@ -15,11 +15,19 @@ In task5, contributors are required to edit **`csci3250-2019.github.io`** in the
 [![Build Status](https://travis-ci.org/marco3321/github-slideshow.svg?branch=master)](https://travis-ci.org/marco3321/github-slideshow)
 
 # Contributors
+
 1. {% include_relative _stu/1155000000.md %} 
 2. {% include_relative _stu/1155102620.md %}
 3. {% include_relative _stu/1155109132.md %}
 4. {% include_relative _stu/1155106709.md %}
 5. {% include_relative _stu/1155110717.md %}
+6. {% include_relative _stu/1155110323.md %}
+
+Leung Ming Fung Andy, 
+Li Fung Siu, 
+Chaiyasait Prachaseree,
+Tsui Ho Ming,
+Cheung Bok Man Oscar
 
 # Last Update Time
 {{site.time}}
