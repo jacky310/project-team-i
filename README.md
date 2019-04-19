@@ -12,7 +12,7 @@ In task5, contributors are required to edit **`csci3250-2019.github.io`** in the
 # Code
 {% include_relative code.c %}
 
-[![Build Status](https://travis-ci.org/marco3321/github-slideshow.svg?branch=master)](https://travis-ci.org/marco3321/github-slideshow)
+[![Build Status](https://travis-ci.org/csci3250-2019/project-team-i.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-i)
 
 # Contributors
 1. {% include_relative _stu/1155000000.md %} 
