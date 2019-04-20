@@ -17,7 +17,6 @@ In task5, contributors are required to edit **`csci3250-2019.github.io`** in the
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-i.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-i)
 
 # Contributors
-
 1. {% include_relative _stu/1155000000.md %} 
 2. {% include_relative _stu/1155102620.md %}
 3. {% include_relative _stu/1155109132.md %}
@@ -25,6 +24,7 @@ In task5, contributors are required to edit **`csci3250-2019.github.io`** in the
 5. {% include_relative _stu/1155110717.md %}
 6. {% include_relative _stu/1155110323.md %}
 7. {% include_relative _stu/1155109498.md %}
+8. {% include_relative _stu/1155108500.md %}
 
 # Last Update Time
 {{site.time}}
